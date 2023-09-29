@@ -23,7 +23,7 @@
 
 
 <h3>day3</h3>
-<p>Contains day3.js file and exercise3 directory. I learnt data types in JavaScript and the following concepts were covered:</p>
+<p>Contains day3.js file and exercise3 directory. I learnt boleans, operators and date in JavaScript and the following concepts were covered:</p>
 <strong>Booleans, Operators, Date</strong>
 <p> - Truthy values</p> 
 <p> - Falsy values</p> 
@@ -39,7 +39,7 @@
 <p>Contains exercise.js, exercise2.js, exercise3.js exercise files for practicing concepts learnt in on day3.
 
 <h3>day4</h3>
-<p>Contains day4.js file and exercise4 directory. I learnt data types in JavaScript and the following concepts were covered:</p>
+<p>Contains day4.js file and exercise4 directory. I learnt conditionals in JavaScript and the following concepts were covered:</p>
 <strong>Conditionals</strong>
 <p> - If</p> 
 <p> - Else</p> 
@@ -52,7 +52,7 @@
 <p>Contains exercise.js, exercise2.js, exercise3.js exercise files for practicing concepts learnt in on day4.
 
 <h3>day5</h3>
-<p>Contains day5.js file and exercise5 directory. I learnt data types in JavaScript and the following concepts were covered:</p>
+<p>Contains day5.js file and exercise5 directory. I learnt arrays in JavaScript and the following concepts were covered:</p>
 <strong>Arrays</strong>
 <p> - Creating an array</p> 
 <p> - Array Methods</p> 
@@ -66,7 +66,7 @@
 <p>Contains exercise.js, exercise2.js, exercise3.js exercise files for practicing concepts learnt in on day5.
 
 <h3>day6</h3>
-<p>Contains day6.js file and exercise6 directory. I learnt  loops in JavaScript and the following concepts were covered:</p>
+<p>Contains day6.js file and exercise6 directory. I learnt loops in JavaScript and the following concepts were covered:</p>
 <strong>Loops</strong>
 <p> - For Loop</p> 
 <p> - While Loop</p> 
