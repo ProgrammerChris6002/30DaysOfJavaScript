@@ -4,7 +4,7 @@
 <h2>Directories</h2>
 
 <h3>day2</h3>
-<p>Contains day2.js file and exercise2 directory. I learnt data types in JavaScript and the following concepts were covered:</p>
+<p>Contains <strong>day2.js</strong> file and <strong>exercise2</strong> directory. I learnt data types in JavaScript and the following concepts were covered:</p>
 <strong>Data types</strong>
 <p> - Primitive Data Types</p> 
 <p> - Non-Primitive Data Types</p> 
@@ -19,11 +19,11 @@
 <p> - String Concatenation</p>
 
 <h4>exercise2 sub-directory</h4>
-<p>Contains exercise.js, exercise2.js, exercise3.js exercise files for practicing concepts learnt in on day2.
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day2.
 
 
 <h3>day3</h3>
-<p>Contains day3.js file and exercise3 directory. I learnt boleans, operators and date in JavaScript and the following concepts were covered:</p>
+<p>Contains <strong>day3.js</strong> file and <strong>exercise3</strong> directory. I learnt boleans, operators and date in JavaScript and the following concepts were covered:</p>
 <strong>Booleans, Operators, Date</strong>
 <p> - Truthy values</p> 
 <p> - Falsy values</p> 
@@ -36,10 +36,10 @@
 <p> - Date Object</p>
 
 <h4>exercise3 sub-directory</h4>
-<p>Contains exercise.js, exercise2.js, exercise3.js exercise files for practicing concepts learnt in on day3.
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day3.
 
 <h3>day4</h3>
-<p>Contains day4.js file and exercise4 directory. I learnt conditionals in JavaScript and the following concepts were covered:</p>
+<p>Contains <strong>day4.js</strong> file and <strong>exercise4</strong> directory. I learnt conditionals in JavaScript and the following concepts were covered:</p>
 <strong>Conditionals</strong>
 <p> - If</p> 
 <p> - Else</p> 
@@ -49,10 +49,10 @@
 <p> - Tenary Operators</p> 
 
 <h4>exercise4 sub-directory</h4>
-<p>Contains exercise.js, exercise2.js, exercise3.js exercise files for practicing concepts learnt in on day4.
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day4.
 
 <h3>day5</h3>
-<p>Contains day5.js file and exercise5 directory. I learnt arrays in JavaScript and the following concepts were covered:</p>
+<p>Contains <strong>day5.js</strong> file and <strong>exercise5</strong> directory. I learnt arrays in JavaScript and the following concepts were covered:</p>
 <strong>Arrays</strong>
 <p> - Creating an array</p> 
 <p> - Array Methods</p> 
@@ -63,10 +63,10 @@
 <p>Array of arrays</p>
 
 <h4>exercise5 sub-directory</h4>
-<p>Contains exercise.js, exercise2.js, exercise3.js exercise files for practicing concepts learnt in on day5.
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day5.
 
 <h3>day6</h3>
-<p>Contains day6.js file and exercise6 directory. I learnt loops in JavaScript and the following concepts were covered:</p>
+<p>Contains <strong>day6.js</strong> file and <strong>exercise6</strong> directory. I learnt loops in JavaScript and the following concepts were covered:</p>
 <strong>Loops</strong>
 <p> - For Loop</p> 
 <p> - While Loop</p> 
@@ -76,4 +76,4 @@
 <p> - Continue</p> 
 
 <h4>exercise6 sub-directory</h4>
-<p>Contains exercise.js, exercise2.js, exercise3.js exercise files for practicing concepts learnt in on day6.
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day6.
