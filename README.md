@@ -17,11 +17,9 @@
 <p> - Long Literal Strings</p>
 <p> - Escape Sequences in Strings</p>
 <p> - String Concatenation</p>
-<br>
 
 <h4>exercise2 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day2.</p>
-<br>
 <br>
 
 
@@ -37,11 +35,9 @@
 <strong>Numbers</strong>
 <p> - Window Methods</p> 
 <p> - Date Object</p>
-<br>
 
 <h4>exercise3 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day3.</p>
-<br>
 <br>
 
 <h3>day4</h3>
@@ -53,11 +49,9 @@
 <p> - Null</p> 
 <p> - Switch</p> 
 <p> - Tenary Operators</p> 
-<br>
 
 <h4>exercise4 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day4.</p>
-<br>
 <br>
 
 <h3>day5</h3>
@@ -70,11 +64,9 @@
 <p> - Adding and Removing elements to and from an array</p> 
 <p> - Sorting and Reversing arrays</p> 
 <p>Array of arrays</p>
-<br>
 
 <h4>exercise5 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day5.</p>
-<br>
 <br>
 
 <h3>day6</h3>
@@ -86,9 +78,7 @@
 <p> - For Of Loop</p> 
 <p> - Break</p> 
 <p> - Continue</p> 
-<br>
 
 <h4>exercise6 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day6.</p>
-<br>
 <br>
