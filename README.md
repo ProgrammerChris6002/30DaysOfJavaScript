@@ -82,3 +82,21 @@
 <h4>exercise6 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day6.</p>
 <br>
+<br>
+
+<h3>day7</h3>
+<p>Contains <strong>day7.js</strong> file and <strong>exercise7</strong> directory. I learnt functions in JavaScript and the following concepts were covered:</p>
+<strong>Functions</strong>
+<p> - Function declaration</p> 
+<p> - Function without parameter and return</p> 
+<p> - Function with parameter and return</p> 
+<p> - Function with unlimited number of parameters</p> 
+<p> - Anonymous functions</p> 
+<p> - Expression funtions</p> 
+<p> - Self-invoking functions</p> 
+<p> - Arrow functions</p> 
+<p> - Function with default parameters</p> 
+
+<h4>exercise7 sub-directory</h4>
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day7.</p>
+<br>
