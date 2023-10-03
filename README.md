@@ -82,7 +82,6 @@
 <h4>exercise6 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day6.</p>
 <br>
-<br>
 
 <h3>day7</h3>
 <p>Contains <strong>day7.js</strong> file and <strong>exercise7</strong> directory. I learnt functions in JavaScript and the following concepts were covered:</p>
@@ -99,4 +98,21 @@
 
 <h4>exercise7 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day7.</p>
+<br>
+
+<h3>day8</h3>
+<p>Contains <strong>day8.js</strong> file and <strong>exercise8</strong> directory. I learnt objects in JavaScript and the following concepts were covered:</p>
+<strong>Objects</strong>
+<p> - Scope</p> 
+<p> - Window global object</p> 
+<p> - Global scope & local scope</p> 
+<p> - Creating an object</p> 
+<p> - Getting values from an object</p> 
+<p> - Creating object methods</p> 
+<p> - Setting new key for an object</p> 
+<p> - Objects methods - keys(), values(), entries(), hasOwnProperty()</p> 
+<p> - Function with default parameters</p> 
+
+<h4>exercise8 sub-directory</h4>
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day8.</p>
 <br>
