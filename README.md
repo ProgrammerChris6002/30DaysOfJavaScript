@@ -116,3 +116,15 @@
 <h4>exercise8 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day8.</p>
 <br>
+
+<h3>day9</h3>
+<p>Contains <strong>day9.js</strong> file and <strong>exercise9</strong> directory. I learnt Higher Order Functions in JavaScript and the following concepts were covered:</p>
+<strong>Higher Order Function</strong>
+<p> - Callback</p> 
+<p> - Returning function</p> 
+<p> - Setting time - setInterval(), setTimeout()</p> 
+<p> - Functional Programming - forEach(), map(), filter(), reduce(), every(), find(), findIndex(), some(), sort()</p> 
+
+<h4>exercise9 sub-directory</h4>
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day9.</p>
+<br>
