@@ -5,7 +5,7 @@
 
 <h3>day2</h3>
 <p>Contains <strong>day2.js</strong> file and <strong>exercise2</strong> directory. I learnt data types in JavaScript and the following concepts were covered:</p>
-<strong>Data types</strong>
+<p><strong>Data types</strong></p>
 <p> - Primitive Data Types</p> 
 <p> - Non-Primitive Data Types</p> 
 <p> - Checking Data Types and Casting</p> 
@@ -25,7 +25,7 @@
 
 <h3>day3</h3>
 <p>Contains <strong>day3.js</strong> file and <strong>exercise3</strong> directory. I learnt boleans, operators and date in JavaScript and the following concepts were covered:</p>
-<strong>Booleans, Operators, Date</strong>
+<p><strong>Booleans, Operators, Date</strong></p>
 <p> - Truthy values</p> 
 <p> - Falsy values</p> 
 <p> - Undefined</p> 
@@ -42,7 +42,7 @@
 
 <h3>day4</h3>
 <p>Contains <strong>day4.js</strong> file and <strong>exercise4</strong> directory. I learnt conditionals in JavaScript and the following concepts were covered:</p>
-<strong>Conditionals</strong>
+<p><strong>Conditionals</strong></p>
 <p> - If</p> 
 <p> - Else</p> 
 <p> - Else If</p> 
@@ -56,7 +56,7 @@
 
 <h3>day5</h3>
 <p>Contains <strong>day5.js</strong> file and <strong>exercise5</strong> directory. I learnt arrays in JavaScript and the following concepts were covered:</p>
-<strong>Arrays</strong>
+<p><strong>Arrays</strong></p>
 <p> - Creating an array</p> 
 <p> - Array Methods</p> 
 <p> - Accessing array items using index</p> 
@@ -71,7 +71,7 @@
 
 <h3>day6</h3>
 <p>Contains <strong>day6.js</strong> file and <strong>exercise6</strong> directory. I learnt loops in JavaScript and the following concepts were covered:</p>
-<strong>Loops</strong>
+<p><strong>Loops</strong></p>
 <p> - For Loop</p> 
 <p> - While Loop</p> 
 <p> - Do While Loop</p> 
@@ -85,7 +85,7 @@
 
 <h3>day7</h3>
 <p>Contains <strong>day7.js</strong> file and <strong>exercise7</strong> directory. I learnt functions in JavaScript and the following concepts were covered:</p>
-<strong>Functions</strong>
+<p><strong>Functions</strong></p>
 <p> - Function declaration</p> 
 <p> - Function without parameter and return</p> 
 <p> - Function with parameter and return</p> 
@@ -102,7 +102,7 @@
 
 <h3>day8</h3>
 <p>Contains <strong>day8.js</strong> file and <strong>exercise8</strong> directory. I learnt objects in JavaScript and the following concepts were covered:</p>
-<strong>Objects</strong>
+<p><strong>Objects</strong></p>
 <p> - Scope</p> 
 <p> - Window global object</p> 
 <p> - Global scope & local scope</p> 
@@ -119,7 +119,7 @@
 
 <h3>day9</h3>
 <p>Contains <strong>day9.js</strong> file and <strong>exercise9</strong> directory. I learnt Higher Order Functions in JavaScript and the following concepts were covered:</p>
-<strong>Higher Order Function</strong>
+<p><strong>Higher Order Functions</strong></p>
 <p> - Callback</p> 
 <p> - Returning function</p> 
 <p> - Setting time - setInterval(), setTimeout()</p> 
