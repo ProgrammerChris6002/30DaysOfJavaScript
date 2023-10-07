@@ -128,3 +128,20 @@
 <h4>exercise9 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day9.</p>
 <br>
+
+<h3>day10</h3>
+<p>Contains <strong>day10.js</strong> file and <strong>exercise10</strong> directory. I learnt Sets and Maps in JavaScript and the following concepts were covered:</p>
+<p><strong>Set</strong></p>
+<p> - Creating a set</p> 
+<p> - Adding and deleting element(s) to and from a set</p> 
+<p> - Checking an element in the set</p> 
+<p> - Clearing the set</p> 
+<p> - Union, Intersection and Difference of sets</p> 
+<p><strong>Map</strong></p>
+<p> - Creating a map</p> 
+<p> - Adding and getting value(s) to and from a map</p> 
+<p> - Checking key in a map</p> 
+
+<h4>exercise10 sub-directory</h4>
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day10.</p>
+<br>
