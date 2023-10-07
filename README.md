@@ -145,3 +145,19 @@
 <h4>exercise10 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day10.</p>
 <br>
+
+<h3>day11</h3>
+<p>Contains <strong>day11.js</strong> file and <strong>exercise11</strong> directory. I learnt Destructuring and Spreading in JavaScript and the following concepts were covered:</p>
+<p><strong>Destructuring and Spreading</strong></p>
+<p> - Destructing Arrays and Objects</p> 
+<p> - Renaming during structuring</p> 
+<p> - Object parameter with and without destructuring</p> 
+<p> - Destructuring during iteration</p> 
+<p> - Spread or rest Operator</p> 
+<p> - Spread operator to get the rest of array elements</p> 
+<p> - Spread operator to copy array and object</p> 
+<p> - Spread operator with arrow function</p> 
+
+<h4>exercise11 sub-directory</h4>
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day11.</p>
+<br>
