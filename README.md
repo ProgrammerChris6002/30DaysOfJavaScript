@@ -148,11 +148,11 @@
 
 <h3>day11</h3>
 <p>Contains <strong>day11.js</strong> file and <strong>exercise11</strong> directory. I learnt Destructuring and Spreading in JavaScript and the following concepts were covered:</p>
-<p><strong>Destructuring and Spreading</strong></p>
+<p><strong>Destructing and Spreading</strong></p>
 <p> - Destructing Arrays and Objects</p> 
-<p> - Renaming during structuring</p> 
-<p> - Object parameter with and without destructuring</p> 
-<p> - Destructuring during iteration</p> 
+<p> - Renaming during structing</p> 
+<p> - Object parameter with and without destructing</p> 
+<p> - Destructing during iteration</p> 
 <p> - Spread or rest Operator</p> 
 <p> - Spread operator to get the rest of array elements</p> 
 <p> - Spread operator to copy array and object</p> 
