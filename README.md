@@ -172,3 +172,21 @@
 <h4>exercise12 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day12.</p>
 <br>
+
+<h3>day13</h3>
+<p>Contains <strong>day13.js</strong> file and <strong>exercise13</strong> directory. I learnt Console Object Methods in JavaScript and the following concepts were covered:</p>
+<p><strong>Console Object Methods</strong></p>
+<p> - console.log()</p> 
+<p> - console.warn()</p> 
+<p> - console.error()</p> 
+<p> - console.table()</p> 
+<p> - console.time()</p> 
+<p> - console.info()</p> 
+<p> - console.assert()</p> 
+<p> - console.group()</p> 
+<p> - console.count()</p> 
+<p> - console.clear()</p> 
+
+<h4>exercise13 sub-directory</h4>
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day13.</p>
+<br>
