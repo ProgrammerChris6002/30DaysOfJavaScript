@@ -161,3 +161,14 @@
 <h4>exercise11 sub-directory</h4>
 <p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day11.</p>
 <br>
+
+<h3>day12</h3>
+<p>Contains <strong>day12.js</strong> file and <strong>exercise12</strong> directory. I learnt Regular Expressions in JavaScript and the following concepts were covered:</p>
+<p><strong>Regular Expressions</strong></p>
+<p> - RegExp parameters - patterns, flags</p> 
+<p> - Creating a pattern with and without RegExp constructor</p> 
+<p> - RegExp object methods - test(), match(), replace()</p> 
+
+<h4>exercise12 sub-directory</h4>
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in on day12.</p>
+<br>
