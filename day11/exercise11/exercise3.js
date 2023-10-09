@@ -1,4 +1,4 @@
-const countries = require('../../countries'); // importing countries array
+const { countries } = require('../../countries'); // importing countries array
 
 for (const object of countries)
 {
