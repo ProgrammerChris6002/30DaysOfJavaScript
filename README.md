@@ -19,7 +19,7 @@
 <p> - String Concatenation</p>
 
 <h4>exercise2 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in day2.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong>strong> exercise files for practicing concepts learnt in day2.</p>
 <br>
 
 
@@ -37,7 +37,7 @@
 <p> - Date Object</p>
 
 <h4>exercise3 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in day3.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day3.</p>
 <br>
 
 <h3>day4</h3>
@@ -51,7 +51,7 @@
 <p> - Tenary Operators</p> 
 
 <h4>exercise4 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in day4.</p>
+<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day4.</p>
 <br>
 
 <h3>day5</h3>
@@ -66,7 +66,7 @@
 <p>Array of arrays</p>
 
 <h4>exercise5 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in day5.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day5.</p>
 <br>
 
 <h3>day6</h3>
@@ -80,7 +80,7 @@
 <p> - Continue</p> 
 
 <h4>exercise6 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in day6.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day6.</p>
 <br>
 
 <h3>day7</h3>
