@@ -19,7 +19,7 @@
 <p> - String Concatenation</p>
 
 <h4>exercise2 sub-directory</h4>
-<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong>strong> exercise files for practicing concepts learnt in day2.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day2.</p>
 <br>
 
 
