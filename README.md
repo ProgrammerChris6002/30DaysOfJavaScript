@@ -203,3 +203,21 @@
 <h4>exercise14 sub-directory</h4>
 <p>Contains <strong>exercise.js</strong> file for practicing concepts learnt in day14.</p>
 <br>
+
+<h3>day15</h3>
+<p>Contains <strong>day15.js</strong> file and <strong>exercise15</strong> directory. I learnt Classes in JavaScript and the following concepts were covered:</p>
+<p><strong>Classes</strong></p>
+<p> - Defining a classes</p> 
+<p> - Class Instantiation</p> 
+<p> - Class Constructor</p> 
+<p> - Default values with constructor</p> 
+<p> - Class methods</p> 
+<p> - getter</p> 
+<p> - setter</p> 
+<p> - Static methods</p> 
+<p> - Inheritance</p> 
+<p> - Overriding methods</p> 
+
+<h4>exercise15 sub-directory</h4>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day15.</p>
+<br>
