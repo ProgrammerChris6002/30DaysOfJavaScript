@@ -51,7 +51,7 @@
 <p> - Tenary Operators</p> 
 
 <h4>exercise4 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day4.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day4.</p>
 <br>
 
 <h3>day5</h3>
@@ -97,7 +97,7 @@
 <p> - Function with default parameters</p> 
 
 <h4>exercise7 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in day7.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day7.</p>
 <br>
 
 <h3>day8</h3>
@@ -114,7 +114,7 @@
 <p> - Function with default parameters</p> 
 
 <h4>exercise8 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in day8.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day8.</p>
 <br>
 
 <h3>day9</h3>
@@ -126,7 +126,7 @@
 <p> - Functional Programming - forEach(), map(), filter(), reduce(), every(), find(), findIndex(), some(), sort()</p> 
 
 <h4>exercise9 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in day9.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day9.</p>
 <br>
 
 <h3>day10</h3>
@@ -143,7 +143,7 @@
 <p> - Checking key in a map</p> 
 
 <h4>exercise10 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in day10.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day10.</p>
 <br>
 
 <h3>day11</h3>
@@ -159,7 +159,7 @@
 <p> - Spread operator with arrow function</p> 
 
 <h4>exercise11 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in day11.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day11.</p>
 <br>
 
 <h3>day12</h3>
@@ -170,7 +170,7 @@
 <p> - RegExp object methods - test(), match(), replace()</p> 
 
 <h4>exercise12 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in day12.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day12.</p>
 <br>
 
 <h3>day13</h3>
@@ -188,7 +188,7 @@
 <p> - console.clear()</p> 
 
 <h4>exercise13 sub-directory</h4>
-<p>Contains <strong>exercise.js<strong>, <strong>exercise2.js<strong>, <strong>exercise3.js<strong> exercise files for practicing concepts learnt in day13.</p>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong>, <strong>exercise3.js</strong> exercise files for practicing concepts learnt in day13.</p>
 <br>
 
 <h3>day14</h3>
