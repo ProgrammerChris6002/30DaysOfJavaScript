@@ -221,3 +221,15 @@
 <h4>exercise15 sub-directory</h4>
 <p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day15.</p>
 <br>
+
+<h3>day16</h3>
+<p>Contains <strong>day16.js</strong> file and <strong>exercise16</strong> directory. I learnt JSON in JavaScript and the following concepts were covered:</p>
+<p><strong>JSON</strong></p>
+<p> - Converting JSON to JavaScript Object</p> 
+<p> - Using a reviver function with JSON.parse()</p> 
+<p> - Converting Object to JSON</p> 
+<p> - Using a Filter Array with JSON.stringify()</p> 
+
+<h4>exercise16 sub-directory</h4>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day16.</p>
+<br>
