@@ -233,3 +233,17 @@
 <h4>exercise16 sub-directory</h4>
 <p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day16.</p>
 <br>
+
+<h3>day17</h3>
+<p>Contains <strong>day17.js</strong> file and <strong>exercise17</strong> directory. I learnt Web Storages in JavaScript and the following concepts were covered:</p>
+<p><strong>Web Storages</strong></p>
+<p> - sessionStorage</p> 
+<p> - localStorage</p> 
+<p> - Use case of Web Storages</p> 
+<p> - Setting item to the localStorage</p> 
+<p> - Getting item from the localStorage</p> 
+<p> - Clearing the localStorage</p> 
+
+<h4>exercise17 sub-directory</h4>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day17.</p>
+<br>
