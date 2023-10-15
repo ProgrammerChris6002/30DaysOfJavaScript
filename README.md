@@ -247,3 +247,15 @@
 <h4>exercise17 sub-directory</h4>
 <p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day17.</p>
 <br>
+
+<h3>day18</h3>
+<p>Contains <strong>day18.js</strong> file and <strong>exercise18</strong> directory. I learnt Web Promises in JavaScript and the following concepts were covered:</p>
+<p><strong>Promises</strong></p>
+<p> - Callbacks</p> 
+<p> - Promise Constructor</p> 
+<p> - Fetch API</p> 
+<p> - Async and Await</p> 
+
+<h4>exercise18 sub-directory</h4>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day18.</p>
+<br>
