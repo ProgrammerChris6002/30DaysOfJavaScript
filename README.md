@@ -259,3 +259,13 @@
 <h4>exercise18 sub-directory</h4>
 <p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day18.</p>
 <br>
+
+<h3>day19</h3>
+<p>Contains <strong>day19.js</strong> file and <strong>exercise19</strong> directory. I learnt Closure in JavaScript and the following concepts were covered:</p>
+<p><strong>Closure</strong></p>
+<p> - Inner Function</p> 
+<p> - Outer Function</p> 
+
+<h4>exercise19 sub-directory</h4>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day19.</p>
+<br>
