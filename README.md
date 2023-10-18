@@ -269,3 +269,17 @@
 <h4>exercise19 sub-directory</h4>
 <p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day19.</p>
 <br>
+
+<h3>day20</h3>
+<p>Contains <strong>day20.js</strong> file and <strong>exercise20</strong> directory. I learnt Writing Clean Codes in JavaScript and the following concepts were covered:</p>
+<p><strong>Writing Clean Codes</strong></p>
+<p> - JavaScript Style Guide</p> 
+<p> - Why we need Style Guide</p> 
+<p> - Airbnb JavaScript Style Guide</p> 
+<p> - Standard JavaScript we need Style Guide</p> 
+<p> - Google JavaScript Style Guide</p> 
+<p> - JavaScript Coding Conventions</p> 
+
+<h4>exercise20 sub-directory</h4>
+<p>No practice exercises.</p>
+<br>
