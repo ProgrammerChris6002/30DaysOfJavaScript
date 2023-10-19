@@ -283,3 +283,16 @@
 <h4>exercise20 sub-directory</h4>
 <p>No practice exercises.</p>
 <br>
+
+<h3>day21</h3>
+<p>Contains <strong>day21.js</strong> file and <strong>exercise21</strong> directory. I learnt Document Object Model in JavaScript and the following concepts were covered:</p>
+<p><strong>Promises</strong></p>
+<p> - JavaScript DOM</p> 
+<p> - Getting Elements - By classname, tagname, id, querySelector() methods</p> 
+<p> - Adding attribute - Using setAttribute(), classList()</p> 
+<p> - Adding Text to HTML element - Using textContent, innerHTML</p> 
+<p> - Adding Style</p> 
+
+<h4>exercise21 sub-directory</h4>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day21.</p>
+<br>
