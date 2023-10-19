@@ -286,7 +286,7 @@
 
 <h3>day21</h3>
 <p>Contains <strong>day21.js</strong> file and <strong>exercise21</strong> directory. I learnt Document Object Model in JavaScript and the following concepts were covered:</p>
-<p><strong>Promises</strong></p>
+<p><strong>JavaScript DOM(Document Object Model)</strong></p>
 <p> - JavaScript DOM</p> 
 <p> - Getting Elements - By classname, tagname, id, querySelector() methods</p> 
 <p> - Adding attribute - Using setAttribute(), classList()</p> 
