@@ -296,3 +296,14 @@
 <h4>exercise21 sub-directory</h4>
 <p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day21.</p>
 <br>
+
+<h3>day22</h3>
+<p>Contains <strong>day22.js</strong> file and <strong>exercise22</strong> directory. I learnt Document Object Model in JavaScript and the following concepts were covered:</p>
+<p><strong>Manipulating DOM Object</strong></p>
+<p> - Creating an Element</p> 
+<p> - Appending child to a parent element</p> 
+<p> - Removing a child element from a parent node</p> 
+
+<h4>exercise22 sub-directory</h4>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day22.</p>
+<br>
