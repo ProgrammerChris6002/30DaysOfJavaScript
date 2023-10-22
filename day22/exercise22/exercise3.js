@@ -9,7 +9,7 @@ const pDays = document.querySelectorAll(".p-days");
 const details = document.querySelectorAll("details");
 const pDetails = document.querySelectorAll(".p-details");
 const pStatus = document.querySelectorAll(".p-status");
-const spanNodeList = document.querySelectorAll("span");
+const strongNodeList = document.querySelectorAll("strong");
 
 wrapper.style.textAlign = 'center';
 strong.style.fontSize = '60px';
@@ -105,4 +105,4 @@ flexElementDisplay(details);
 flexElementDisplay(pStatus);
 
 const setNodeListElementBackgroundColor = (nodeList)=> nodeList.forEach((element)=> element.style.backgroundColor = generateRandomColor());
-setNodeListElementBackgroundColor(spanNodeList);
+setNodeListElementBackgroundColor(strongNodeList);
