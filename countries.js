@@ -2816,6 +2816,7 @@ const countriesArray = [
 ];
 
 module.exports = { countriesObject, countriesArray };
+export { countriesObject, countriesArray };
 
 const constants = [2.72, 3.14, 9.81, 37, 100];
 
