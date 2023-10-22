@@ -14,8 +14,8 @@ ul.style.textAlign = 'start';
 
 const generateRandomColor = ()=>
 {
-    const colorsArray = [ 'green', 'red', 'yellow', 'purple', 'pink', 'violet', 'cyan', 'magenta', 'blue' ];
-    const colorsArrayLength = colorsArray.length;;
+    const colorsArray = [ 'green', 'red', 'yellow', 'purple', 'pink', 'violet', 'cyan', 'magenta', 'blue', 'grey', 'skyblue' ];
+    const colorsArrayLength = colorsArray.length;
     const randomNumber = Math.floor(Math.random() * colorsArrayLength)
     return (colorsArray[randomNumber]);
 }
@@ -32,7 +32,7 @@ const getDateTime = ()=>
     let seconds = now.getSeconds();
     let time = 'PM';
 
-    if (hours < 10)
+    if (hours < 12)
     {
         hours = '0' + hours;
         time = 'AM';
@@ -71,7 +71,7 @@ const displayDateTime = (func)=>
 }
 displayDateTime(getDateTime);
 
-function styleChallenges(nodeList)
+const styleChallenges = (nodeList)=>
 {
     const liStyles = {
         width: '50%',
