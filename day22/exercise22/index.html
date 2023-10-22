@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>30DaysOfJavaScript - Day 22 Exercises</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <style>
+        *
+        {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+        }
+
+        html
+        {
+            font-size: 16px;
+        }
+
+        span
+        {
+            display: inline-block;
+            margin: 8px 4px;
+            padding: 8px 20px;
+            /*background-color: red;*/
+            border-radius: 16px;
+        }
+
+        /* .personal-icon-logo
+        {
+            background-color: black;
+            color: white;
+        }*/
+    </style>
+</head>
+<body>
+    <!-- Exercise 1 -->
+    <!-- <main class="wrapper container text-center mt-3">
+        <h1 class="">Number Generator</h1>
+        <h4 class="">30DaysOfJavaScript: DOM Day 2</h4>
+        <h5 class="mt-2">Author: Christian Nwachukwu</h5>
+
+        <div class="container row mx-auto mt-5 text-center"></div>
+    </main> -->
+
+    <!-- Exercise 2 -->
+    <!-- <main class="wrapper container text-center mt-3">
+        <h1 class="mt-2">WORLD COUNTRIES LIST</h1>
+        <h4 class="mt-2">Total Number of countries: <span></span></h4>
+        <h5 class="mt-2">30DaysOfJavaScript:DOM-Day 2</h5>
+        <h5 class="mt-2">Author: Christian Nwachukwu</h5>
+
+        <div class="container row mx-auto mt-5 text-center"></div>
+    </main> -->
+
+    <!-- Exercise 3 -->
+    <div class="wrapper">
+        <h2 class="mt-1">Asabeneh Yetayeh challenges in <strong>2023</strong></h2>
+        <h3 class="mt-1">30DaysOfJavaScript Challenge</h3>
+        <div class="button-div mt-2"></div>
+        <ul class="mt-5 text-center">
+            <li>
+                <p class="mt-1 p-days">30 Days Of Python</p>
+                <details>
+                    <summary>Python</summary>
+                    <p class="p-details">Python</p>
+                    <p class="p-details">Flask</p>
+                    <p class="p-details">Numpy</p>
+                    <p class="p-details">Pandas</p>
+                    <p class="p-details">Statistics</p>
+                    <p class="p-details">API</p>
+                    <p class="p-details">MongoDB</p>
+                </details>
+                <p class="mt-1 p-status">Done</p>
+            </li>
+            <li>
+                <p class="mt-1 p-days">30 Days Of JavaScript</p>
+                <details>
+                    <summary>JavaScript</summary>
+                    <p class="p-details">JavaScript</p>
+                    <p class="p-details">ES6</p>
+                    <p class="p-details">Promise</p>
+                    <p class="p-details">async and await</p>
+                    <p class="p-details">DOM</p>
+                </details>
+                <p class="mt-1 p-status">Ongoing</p>
+            </li>
+            <li>
+                <p class="mt-1 p-days">30 Days Of HTML & CSS</p>
+                <details>
+                    <summary>HTML & CSS</summary>
+                    <p class="p-details">CSS</p>
+                    <p class="p-details">Flex</p>
+                    <p class="p-details">Grid</p>
+                    <p class="p-details">CSS Animation</p>
+                </details>
+                <p class="mt-1 p-status">Coming</p>
+            </li>
+            <li>
+                <p class="mt-1 p-days">30 Days Of React</p>
+                <details>
+                    <summary>React</summary>
+                    <p class="p-details">React</p>
+                    <p class="p-details">React Hooks</p>
+                    <p class="p-details">React Router</p>
+                    <p class="p-details">Redux</p>
+                </details>
+                <p class="mt-1 p-status">Coming</p>
+            </li>
+            <li>
+                <p class="mt-1 p-days">30 Days Of ReactNative</p>
+                <details>
+                    <summary>ReactNative</summary>
+                    <p class="p-details">ReactNative</p>
+                    <p class="p-details">Context API</p>
+                    <p class="p-details">React Hooks</p>
+                    <p class="p-details">React Router</p>
+                </details>
+                <p class="mt-1 p-status">Coming</p>
+            </li>
+            <li>
+                <p class="mt-1 p-days">30 Days Of Fullstack</p>
+                <details>
+                    <summary>Fullstack</summary>
+                    <p class="p-details">MERN</p>
+                    <p class="p-details">HTML5</p>
+                    <p class="p-details">CSS3</p>
+                    <p class="p-details">JS</p>
+                    <p class="p-details">React</p>
+                    <p class="p-details">Redux</p>
+                    <p class="p-details">D3.js</p>
+                    <p class="p-details">Node</p>
+                    <p class="p-details">API</p>
+                    <p class="p-details">MongoDB</p>
+                    <p class="p-details">SQL</p>
+                </details>
+                <p class="mt-1 p-status">Coming</p>
+            </li>
+            <li>
+                <p class="mt-1 p-days">30 Days Of Data Analysis</p>
+                <details>
+                    <summary>Data Analysis</summary>
+                    <p class="p-details">Data Analysis</p>
+                    <p class="p-details">Numpy</p>
+                    <p class="p-details">Pandas</p>
+                    <p class="p-details">Scipy</p>
+                    <p class="p-details">Statistics</p>
+                    <p class="p-details">Visualization</p>
+                    <p class="p-details">Data Science</p>
+                    <p class="p-details">Database</p>
+                    <p class="p-details">Visualization</p>
+                </details>
+                <p class="mt-1 p-status">Coming</p>
+            </li>
+            <li>
+                <p class="mt-1 p-days">30 Days Of Machine Learning</p>
+                <details>
+                    <summary>Machine Learning</summary>
+                    <p class="p-details">Machine Learning</p>
+                    <p class="p-details">Numpy</p>
+                    <p class="p-details">Pandas</p>
+                    <p class="p-details">Scikit-learn</p>
+                    <p class="p-details">Scipy</p>
+                    <p class="p-details">Statistics</p>
+                    <p class="p-details">Linear Algebra</p>
+                </details>
+                <p class="mt-1 p-status">Coming</p>
+            </li>
+        </ul>
+
+        <section class="container portfolio-section">
+            <h2 class="mt-5">Christian Nwachukwu</h2>
+            <p class="mb-5">
+                <a href="https://linkedin.com/in/christian-chukwuebuka-nwachukwu/" class="personal-icon-logo"><ion-icon name="logo-linkedin" size="large"></ion-icon></a>
+                <a href="https://twitter.com/ProgrammerChris6002/" class="personal-icon-logo"><ion-icon name="logo-twitter" size="large"></ion-icon></a>
+                <a href="https://github.com/ProgrammerChris6002/" class="personal-icon-logo"><ion-icon name="logo-github" size="large"></ion-icon></a>
+            </p>
+            <p class="mb-5">I'm an educator, developer, motivator and university student. I'm a lifelong learner. If you like <br>to know more about me, checkout my <a href="https://linkedin.com/in/christian-chukwuebuka-nwachukwu/">LinkedIn</a> or <a href="https://github.com/ProgrammerChris6002/">Github</a> profile. Thanks, see ya &#x1F44B;</p>
+
+            <div class="container d-flex justify-content-around text-center flex-wrap titles-skills-qualifications">
+                <div class="titles text-start">
+                    <h4>Titles</h4>
+                    <p>&#x1F9D1; Educator</p>
+                    <p>&#x1F525; Motivator</p>
+                    <p>&#x1F4BB; Programmer</p>
+                    <p>&#x1F468;&#x200D;&#x1F4BB; Developer</p>
+                    <p>&#x1F468;&#x200D;&#x1F393; Student</p>
+                </div>
+                <div class="skills text-start">
+                    <h4>Skills</h4>
+                    <p>&#x2705; Web Development</p>
+                    <p>&#x2705; Programming</p>
+                    <p>&#x2705; Databases</p>
+                    <p>&#x2705; Developing API</p>
+                </div>
+                <div class="qualifications text-start">
+                    <h4>Qualifications</h4>
+                    <p>&#x1F393; Computer Science Ongoing</p>
+                </div>
+            </div>
+
+            <div class="container mt-3 mx-5 px-5 div-keywords">
+                <h4 class="text-start">Keywords</h4>
+                <span># HTML</span><span># HTML5</span><span># CSS</span><span># CSS3</span><span># JS</span><span># JavaScript</span><span># ES6</span><span># Promise</span><span># async await</span><span># Database</span><span># React</span><span># React Hooks</span><span># Context API</span><span># React Router</span><span># Redux</span><span># Node</span><span># MongoDB</span><span># API</span><span># DOM</span><span># data science</span><span># MERN</span><span># Python</span><span># Flask</span><span># Statistics</span><span># Linear Algebra</span><span># Pandas</span><span># Numpy</span><span># Scipy</span><span># Scikit-learn</span><span># Visualization</span><span># D3.js</span>
+            </div>
+        </section>
+
+    </div>
+
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <!-- <script src="exercise.js"></script> -->
+    <!-- <script src="exercise2.js"></script> -->
+    <script src="exercise3.js"></script>
+</body>
+</html>
