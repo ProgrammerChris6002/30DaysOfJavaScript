@@ -75,7 +75,7 @@ const displayDateTime = (func)=>
         button.innerHTML = func();
     }, 1000);
 }
-displayDateTime(getDateTime);
+// displayDateTime(getDateTime);
 
 const styleChallenges = (nodeList)=>
 {
