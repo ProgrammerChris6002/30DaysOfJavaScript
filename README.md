@@ -307,3 +307,19 @@
 <h4>exercise22 sub-directory</h4>
 <p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day22.</p>
 <br>
+
+<h3>day23</h3>
+<p>Contains <strong>day23.js</strong> file and <strong>exercise23</strong> directory. I learnt Event Listeners in JavaScript and the following concepts were covered:</p>
+<p><strong>Event Listeners</strong></p>
+<p> - Click</p> 
+<p> - Double Click</p> 
+<p> - Mouse Enter</p> 
+<p> - Getting value from an input element</p> 
+<p> - Input value</p> 
+<p> - Input event and change</p> 
+<p> - blur event</p> 
+<p> - keypress, keydow and keyup</p> 
+
+<h4>exercise23 sub-directory</h4>
+<p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day23.</p>
+<br>
