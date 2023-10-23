@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button>Click Me</button>
+    <button onclick="clickMe()">Click Me</button>
+    <script>
+        const clickMe = ()=>
+        {
+            alert('We can attach event on HTML element');
+        }
+    </script>
+
+    <h1>Body Mass Index Calculator</h1>
+
+    <input type="text" id="mass" placeholder="Mass in Kilogram" />
+    <input type="text" id="height" placeholder="Height in meters" />
+    <button class="bmi">Calculate BMI</button>
+
+    <h1>Data Binding using input or change event</h1>
+    <input type="text" placeholder="say something" class="input" />
+    <p class="para"></p>
+    <button class="bmi">Calculate BMI</button>
+
+    <h1>Giving feedback using blur event</h1>
+    <input type="text" placeholder="say something" class="input-blur" />
+    <p class="para-blur"></p>
+
+    <h1>Key events: Press any key</h1>
+
+    <script src="day23.js"></script>
+</body>
+</html>
