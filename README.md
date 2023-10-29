@@ -323,10 +323,19 @@
 <h4>exercise23 sub-directory</h4>
 <p>Contains <strong>exercise.js</strong>, <strong>exercise2.js</strong> and <strong>exercise3.js</strong> files for practicing concepts learnt in day23.</p>
 <br>
-<br>
 
 <h3>day24</h3>
-<p>Contains <strong>index.html</strong>, <strong>style.css</strong> and <strong>day24.js</strong> files. I created a World Countries Data Visualization App in JavaScript</p>
+<p>Contains <strong>index.html</strong>, <strong>style.css</strong> and <strong>day24.js</strong> files. I created a Solar System App in JavaScript</p>
+<p><strong>Functions created</strong></p>
+<p> - mostSpokenLanguages</p> 
+<p> - mostPopulatedCountries</p> 
+<p> - createElements()</p> 
+<p> - displayData()</p> 
+
+<br>
+
+<h3>day25</h3>
+<p>Contains <strong>index.html</strong>, <strong>style.css</strong> and <strong>day25.js</strong> files. I created a World Countries Data Visualization App in JavaScript</p>
 <p><strong>Functions created</strong></p>
 <p> - mostSpokenLanguages</p> 
 <p> - mostPopulatedCountries</p> 
