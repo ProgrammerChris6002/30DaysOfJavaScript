@@ -12,6 +12,30 @@ html
     font-size: 16px;
     font-family: Poppins;
 }
+@media (max-width: 850px) {
+    html
+    {
+        font-size: 12px;
+    }
+}
+@media (max-width: 650px) {
+    html
+    {
+        font-size: 10px;
+    }
+}
+@media (max-width: 450px) {
+    html
+    {
+        font-size: 8px;
+    }
+}
+@media (max-width: 250px) {
+    html
+    {
+        font-size: 6px;
+    }
+}
 
 
 .wrapper
