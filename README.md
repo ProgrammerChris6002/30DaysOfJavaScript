@@ -327,10 +327,9 @@
 <h3>day24</h3>
 <p>Contains <strong>index.html</strong>, <strong>style.css</strong> and <strong>day24.js</strong> files. I created a Solar System App in JavaScript</p>
 <p><strong>Functions created</strong></p>
-<p> - mostSpokenLanguages</p> 
-<p> - mostPopulatedCountries</p> 
-<p> - createElements()</p> 
-<p> - displayData()</p> 
+<p> - validateDataFields()</p> 
+<p> - calculatePlanetWeight()</p> 
+<p> - displayPlanetData()</p> 
 
 <br>
 
