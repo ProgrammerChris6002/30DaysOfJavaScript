@@ -344,10 +344,18 @@
 <br>
 
 <h3>day26</h3>
-<p>Contains <strong>index.html</strong>, <strong>style.css</strong>, <strong>day25.js</strong> files and <strong>search</strong> directory. I created a World Countries Data Visualization App in JavaScript</p>
+<p>Contains <strong>index.html</strong>, <strong>style.css</strong>, <strong>day26.js</strong> files and <strong>search</strong> directory. I created a World Countries Data Visualization App in JavaScript</p>
 <p><strong>Functions created</strong></p>
 <p> - generateCountries()</p> 
 <p> - searchWord()</p> 
 <p> - sortSearchResult()</p> 
+
+<br>
+
+<h3>day27</h3>
+<p>Contains <strong>index.html</strong>, <strong>style.css</strong> and <strong>day27.js</strong> files. I created learnt how to animate characters in JavaScript, in the process creating a mini portfolio website.</p>
+<p><strong>Functions created</strong></p>
+<p> - selectRandomElement()</p> 
+<p> - selectTalent()</p> 
 
 <br>
