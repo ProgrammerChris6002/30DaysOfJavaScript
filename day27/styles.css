@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html
+{
+    font-size: 16px;
+    font-family: Poppins;
+}
+
+.wrapper
+{
+    font-family: Poppins;
+}
+
+.div-talents
+{
+    background-color: lightgrey;
+    border-radius: 6px;
+}
+.p-talents
+{
+    z-index: 1;
+    animation-name: slide;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes slide {
+    0%
+    {
+        transform: translateX(-35px);
+        opacity: 0;
+    }
+    50%
+    {
+        transform: translateX(35px);
+        opacity: 1;
+    }
+    100%
+    {
+        transform: translateX(-35px);
+        opacity: 0;
+    }
+}
+
+.challenges-div > div
+{
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 1px 1px 8px black;
+    transition-property: all;
+    transition-duration: .75s;
+}
+.challenges-div > div:hover
+{
+    transform: scale(1.1);
+    background-color: pink;
+}
+
+.challenges-div-one
+{
+    height: 125px;
+}
