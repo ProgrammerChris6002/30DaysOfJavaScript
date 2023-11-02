@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html
+{
+    font-size: 16px;
+    font-family: Poppins;
+}
+
+
+main
+{
+    height: 400px;
+    background-image: url("images/globe-image.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1
+{
+    font-size: 2.5rem;
+    letter-spacing: .75rem;
+}
+
+input
+{
+    outline: none;
+}
+.search-box-input
+{
+    width: 45rem;
+}
+
+.container-p
+{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
