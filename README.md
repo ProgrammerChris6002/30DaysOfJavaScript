@@ -342,3 +342,12 @@
 <p> - displayData()</p> 
 
 <br>
+
+<h3>day26</h3>
+<p>Contains <strong>index.html</strong>, <strong>style.css</strong>, <strong>day25.js</strong> files and <strong>search</strong> directory. I created a World Countries Data Visualization App in JavaScript</p>
+<p><strong>Functions created</strong></p>
+<p> - generateCountries()</p> 
+<p> - searchWord()</p> 
+<p> - sortSearchResult()</p> 
+
+<br>
