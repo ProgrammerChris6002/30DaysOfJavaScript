@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (max-width:576px) {    
+    html
+    {
+        font-size: 6px;
+    }
+}
+@media screen and (min-width:576px) {    
+    html
+    {
+        font-size: 10px;
+    }
+}
+@media screen and (min-width:768px) {    
+    html
+    {
+        font-size: 12px;
+    }
+}
+@media screen and (min-width:992px) {    
+    html
+    {
+        font-size: 14px;
+    }
+}
+@media screen and (min-width:1200px) {    
+    html
+    {
+        font-size: 16px;
+    }
+}
+@media screen and (min-width:1400px) {
+    html
+    {
+        font-size: 18px;
+    }
+}
+
+.wrapper
+{
+    font-family: Poppins;
+}
+
+.input-area-div
+{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: .5rem;
+}
+
+.input-area-div > div > input
+{
+    border-radius: .25rem;
+    height: 2.75rem;
+}
+
+.error-message > p
+{
+    font-weight: 700;
+}
+
+.player-container
+{
+    gap: .25rem;
+}
+.player-container > div
+{
+    border-radius: .25rem;
+}
+.crud-icon
+{
+    font-size: 1rem;
+    font-weight: 700;
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 100%;
+}
+.crud-icon:hover
+{
+    cursor: pointer;
+}
+.player-container > div > p
+{
+    flex: 23%;
+    font-weight: 500;
+}
+.player-container > div > p > br + span
+{
+    font-weight: 300;
+    font-size: .8rem;
+}
+.player-container > div > .player-icons
+{
+    flex: 31%;
+}
