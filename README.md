@@ -359,3 +359,18 @@
 <p> - selectTalent()</p> 
 
 <br>
+
+<h3>day28</h3>
+<p>Contains <strong>index.html</strong>, <strong>style.css</strong> and <strong>day28.js</strong> files. I created a leaderboard in JavaScript.</p>
+<p><strong>Functions created</strong></p>
+<p> - validateInputField()</p> 
+<p> - validateNumberInputField()</p> 
+<p> - currentDateTime()</p> 
+<p> - createPlayer()</p> 
+<p> - updatePlayer()</p> 
+<p> - addPlayer()</p> 
+<p> - deletePlayer()</p> 
+<p> - increasePlayerScore()</p> 
+<p> - decreasePlayerScore()</p> 
+
+<br>
