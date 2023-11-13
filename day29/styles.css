@@ -1,0 +1,22 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html
+{
+    font-size: 16px;
+}
+
+main
+{
+    background-color: yellow;
+}
+
+.h1
+{
+    line-height: 6rem;
+    font-size: 4rem;
+}
