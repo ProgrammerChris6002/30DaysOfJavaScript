@@ -374,3 +374,10 @@
 <p> - decreasePlayerScore()</p> 
 
 <br>
+
+<h3>day29</h3>
+<p>Contains <strong>index.html</strong>, <strong>style.css</strong> and <strong>day29.js</strong> files. I animated characters in JavaScript.</p>
+<p><strong>Functions created</strong></p>
+<p> - selectRandomColor()</p> 
+
+<br>
