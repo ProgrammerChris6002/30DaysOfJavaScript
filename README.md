@@ -381,3 +381,14 @@
 <p> - selectRandomColor()</p> 
 
 <br>
+
+<h3>day30</h3>
+<p>Contains <strong>index.html</strong>, <strong>style.css</strong> and <strong>day30.js</strong> files. I validated a form in JavaScript.</p>
+<p><strong>Functions created</strong></p>
+<p> - checkInputFieldLength()</p> 
+<p> - checkInputFieldContent()</p> 
+<p> - validateInputField()</p> 
+<p> - validateAllInputFields()</p> 
+<p> - setButtonDisplay()</p> 
+
+<br>
