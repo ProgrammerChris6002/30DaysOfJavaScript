@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>30DaysOfJavaScript: Day30 Exercises</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="container mx-auto text-center p-5 wrapper">
+        <h1 class="h1 mb-5">Validating Web Forms</h1>
+
+        <form action="" data-submit-form>
+            <div class="text-start mx-auto mb-4 firstname-div">
+                <label for="firstname" class="mb-3">First Name</label>
+                <br>
+                <input type="text" class="mb-3 px-3 firstname-input" id="firstname" data-input-firstname autofocus>
+                <p class="mx-auto text-warning text-center firstname-p d-none">First name must be alphanumeric and contain 3-16 characters</p>
+            </div>
+            
+            <div class="text-start mx-auto mb-4 lastname-div">
+                <label for="lastname" class="mb-3">Last Name</label>
+                <br>
+                <input type="text" class="mb-3 px-3 lastname-input" id="lastname" data-input-lastname>
+                <p class="mx-auto text-warning text-center lastname-p d-none">Last name must be alphanumeric and contain 3-16 characters</p>
+            </div>
+            
+            <div class="text-start mx-auto mb-4 email-div">
+                <label for="email" class="mb-3">Email</label>
+                <br>
+                <input type="email" class="mb-3 px-3 email-input" id="email" data-input-email>
+                <p class="mx-auto text-warning text-center email-p d-none">Email must be a valid address e.g example@mail.com</p>
+            </div>
+            
+            <div class="text-start mx-auto mb-4 password-div">
+                <label for="password" class="mb-3">Password</label>
+                <br>
+                <input type="password" class="mb-3 px-3 password-input" id="password" data-input-password>
+                <p class="mx-auto text-warning text-center password-p d-none">Password must be alphanumeric (@, _ and - are also allowed) and between 6-20 characters</p>
+            </div>
+            
+            <div class="text-start mx-auto mb-4 telephone-div">
+                <label for="telephone" class="mb-3">Telephone</label>
+                <br>
+                <input type="number" class="mb-3 px-3 telephone-input" id="telephone" data-input-telephone>
+                <p class="mx-auto text-warning text-center telephone-p d-none">A valid telephone number (11 digits and 333-333-3334)</p>
+            </div>
+            
+            <div class="text-start mx-auto mb-4 bio-div">
+                <label for="bio" class="mb-3">Your bio</label>
+                <br>
+                <input type="text" class="mb-3 px-3 bio-input" id="bio" data-input-bio>
+                <p class="mx-auto text-warning text-center bio-p d-none">Bio must contain only lowercase letters, underscores, hyphens and be 8-50 characters</p>
+            </div>
+
+            <div class="text-start mx-auto div-btn">
+                <button type="submit" class="btn btn-dark px-5 py-3" data-submit-btn>Submit</button>
+            </div>
+            
+        </form>
+    </main>
+    
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <script src="day30.js"></script>
+</body>
+</html>
